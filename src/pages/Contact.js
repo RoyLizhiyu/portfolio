@@ -1,7 +1,8 @@
-import React, { useState } from 'react'
+import React from 'react'
 import styled from 'styled-components'
 import SectionTitle from '../components/SectionTitle/SectionTitle'
 import {BsFillTelephoneFill,} from 'react-icons/bs'
+import {MdMail, MdLocationPin} from 'react-icons/md'
 import Paragraph from '../components/Paragraphs/Paragraph'
 const ContactStyle = styled.div`
   padding: 10rem 0 10rem;
@@ -74,6 +75,7 @@ const ContactStyle = styled.div`
         color: ${(props) => props.outline ? 'var(--gray-1)' : 'var(--deep-dark)' };
         border: 2px solid var(--gray-1);
         text-align: center;
+        cursor: pointer;
     }
 `
 
@@ -93,15 +95,15 @@ function Contact() {
               </div>
             </div>
             <div className='contactItem'>
-            <div className='contactIcon'><BsFillTelephoneFill /></div>
+            <div className='contactIcon'><MdMail /></div>
             <div className='contactInfo'>
-            <Paragraph>+1 (647)-676-4326</Paragraph>
+            <Paragraph>lzy965081880@gmail.com</Paragraph>
               </div>
             </div>
             <div className='contactItem'>
-            <div className='contactIcon'><BsFillTelephoneFill /></div>
+            <div className='contactIcon'><MdLocationPin /></div>
             <div className='contactInfo'>
-            <Paragraph>+1 (647)-676-4326</Paragraph>
+            <Paragraph>Toronto, Ontario, Canada</Paragraph>
               </div>
             </div>
           </div>

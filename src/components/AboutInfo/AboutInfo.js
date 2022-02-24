@@ -82,4 +82,4 @@ export default AboutInfo
 
 const para1 = "I'm from Guiyang,China, I moved to Canada when I was 18 in order to attend my college studies. I studied cognitive science and computer science as my majors. "
 const para2 = 'In my years of studying computer science courses, I dived shallowly into a wide diversity of fields in programming from UI/UX design to artificial intelligence.'
-const para3 = 'After a while I found I really enjoyed building things on the front-end, so much so that it becomes a second nature for me to put efforts into programming.'
+const para3 = 'After a while I found I really enjoyed building things on the front-end, so much so that it becomes a second nature for me to put more efforts into programming.'
