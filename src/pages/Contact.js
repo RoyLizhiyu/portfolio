@@ -77,6 +77,12 @@ const ContactStyle = styled.div`
         text-align: center;
         cursor: pointer;
     }
+
+    @media only screen and (max-width:768px){
+      .main{
+        flex-direction: column;
+      }
+    }
 `
 
 function Contact() {
