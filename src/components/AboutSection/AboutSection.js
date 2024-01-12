@@ -12,8 +12,8 @@ function AboutSection() {
             <SectionTitle title='ABOUT ME' subtitle='Let me introduce myself' />
             <Paragraph>
             I am an alumnus student from the University of Toronto. 
-            I graduated last summer and I have been studying on front end developments since then. 
-            I am now open to any junior-level front end work!
+            Currently working the role of Front-End developer in a Tech Company in Toronto.
+            I am always open to new opportunities!
             </Paragraph>
 
             <div className='aboutSectionBtns'> 
