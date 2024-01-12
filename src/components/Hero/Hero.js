@@ -19,7 +19,7 @@ function Hero() {
             </div>
 
             <div className='heroInfo'>
-                <Paragraph> I'm a junior front end developer who is passinate about learning and building 
+                <Paragraph> I'm a Front End developer who is passinate about learning and building 
                 new things on the web. I believe that one only get better by remaining in the state of learning. 
                 And passion is what preserves you in that state. 
                  </Paragraph>
