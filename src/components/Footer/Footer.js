@@ -57,8 +57,8 @@ function Footer() {
         <div className="column1">
           <h2 className="footerTitle">Zhiyu Li</h2>
           <p className="footerParagraph">
-            front end developer located at Greater Toronto Area. Bachelor of
-            Science studies in the University of Toronto.
+            Front End Developer located in the Greater Toronto Area. Bachelor of
+            Science studies from the University of Toronto.
           </p>
         </div>
         <div className="column2">

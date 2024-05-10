@@ -3,7 +3,7 @@ import Paragraph from "../Paragraphs/Paragraph";
 import AboutInfoStyle from "./style";
 import cv from "../../assets/cv.pdf";
 import Style from "../Button/style";
-import aboutImg from "../../assets/images/aboutInfo.jpg";
+import aboutImg from "../../assets/images/aboutInfo.png";
 import InfoCard from "./InfoCard.js/InfoCard";
 import ContactSection from "../ContactSection/ContactSection";
 function AboutInfo() {
@@ -87,8 +87,8 @@ function AboutInfo() {
 export default AboutInfo;
 
 const para1 =
-  "I'm from mainland,China, I moved to Canada when I was to attend my college studies. I studied cognitive science and computer science as my majors. ";
+  "I'm from mainland China, I moved to Canada to attend university. My majors were cognitive science and computer science.";
 const para2 =
-  "In my years of studying computer science courses, I dived into a wide diversity of fields in programming from UI/UX design to artificial intelligence.";
+  "In my years of studying computer science, I dove into the diverse field of programming, working in many areas such as UI/UX design and artificial intelligence.";
 const para3 =
-  "After that I found a passion on the front-end, so much so that it becomes natural for me to put more efforts into programming.";
+  "After I discovered my passion for front-end, my main efforts naturally focused on this area.";

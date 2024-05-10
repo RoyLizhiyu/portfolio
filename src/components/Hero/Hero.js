@@ -20,10 +20,10 @@ function Hero() {
 
           <div className="heroInfo">
             <Paragraph>
-              Frontend Developer | Alumni at University of Toronto | Bachelor of
+              Frontend Developer | University of Toronto Alumnus | Bachelor of
               Science
             </Paragraph>
-            <Button link="/projects" text="see my works" outline={false} />
+            <Button link="/projects" text="see my work" outline={false} />
           </div>
 
           <div className="heroSocial">
