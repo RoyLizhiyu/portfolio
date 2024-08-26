@@ -38,6 +38,12 @@ function AboutInfo() {
       description: ["Git", "Azure Develops", "Agile development"],
     },
   ];
+  const experience = [
+    {
+      name: "Front-End Developer",
+      description: ["PowerHub Inc.", "React.js", "Cypress"],
+    },
+  ];
   return (
     <AboutInfoStyle>
       <div className="container">
@@ -75,6 +81,7 @@ function AboutInfo() {
           </div>
         </div>
         <div className="botSection">
+          <InfoCard title="Experience" items={experience} />
           <InfoCard title="EDUCATION" items={education} />
           <InfoCard title="MY SKILLS" items={skills} />
         </div>
