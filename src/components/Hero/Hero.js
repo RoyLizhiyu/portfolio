@@ -1,5 +1,5 @@
 import React from "react";
-import hero from "../../assets/images/hero4.jpeg";
+import hero from "../../assets/images/hero4.jpg";
 import Button from "../Button/Button";
 import Paragraph from "../Paragraphs/Paragraph";
 import { CgArrowLongDownL } from "react-icons/cg";
