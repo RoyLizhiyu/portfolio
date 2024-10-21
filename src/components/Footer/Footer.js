@@ -29,8 +29,8 @@ function Footer() {
       url: "tel:6476764326",
     },
     {
-      name: "lzy965081880@gmail.com",
-      url: "mailto:lzy965081880@gmail.com",
+      name: "royzhiyu.li@alumni.utoronto.ca",
+      url: "mailto:royzhiyu.li@alumni.utoronto.ca",
     },
     {
       name: "Toronto, Ontario, Canada",

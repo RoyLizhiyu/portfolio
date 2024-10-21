@@ -4,6 +4,7 @@ import doodle from "../images/doodle6.png";
 import portfolio from "../images/pf3.png";
 import tree from "../images/tree.png";
 import XIV from "../images//XIV.png";
+import btg from "../images/btg.png";
 const projects = [
   {
     id: uuidv4(),
@@ -12,6 +13,14 @@ const projects = [
       "A gearing site for the MMORPG game Final Fantasy 14, users can test and see thier in-game character gears/stats.",
     img: XIV,
     href: "https://xivgearset.netlify.app/",
+  },
+  {
+    id: uuidv4(),
+    title: "Music Backing Track Generator",
+    description:
+      "A music generating app built with NextJS that playbacks bakcing tracks according to user's preference.",
+    img: btg,
+    href: "https://btg-two.vercel.app/",
   },
   {
     id: uuidv4(),

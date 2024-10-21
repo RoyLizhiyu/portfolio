@@ -20,7 +20,8 @@ const ProjectStyle = styled.div`
   .card1,
   .card2,
   .card3,
-  .card4 {
+  .card4,
+  .card5 {
     width: 350px;
   }
 
@@ -31,7 +32,9 @@ const ProjectStyle = styled.div`
     .card0,
     .card1,
     .card2,
-    .card3 {
+    .card3,
+    .card4,
+    .card5 {
       width: 300px;
     }
   }
